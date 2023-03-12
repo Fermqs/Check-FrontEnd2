@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "Check_1",
+            "request": "launch",
+            "url": "http://127.0.0.1:5500/Check-FrontEnd2/index.html?"
+        }
+    ]
+}
